@@ -18,6 +18,6 @@ Preparar uma base de dados sobre sono animal e construir um dashboard para anali
 
 ## Processo de tratamento
 
-O fluxo do projeto foi:
-CSV → tabela raw → tabela staging → tratamento no MySQL → VIEW final → Power BI
+O fluxo do projeto foi: CSV → tabela raw → tabela staging → tratamento no MySQL → VIEW final → Power BI
+
 <img width="1353" height="767" alt="Captura de tela 2026-08-29 170029" src="https://github.com/user-attachments/assets/9f7ddb8f-8c69-45d8-a1e0-965f14bc87fe" />
